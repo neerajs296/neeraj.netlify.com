@@ -11,6 +11,9 @@
 .site-header-content{
 margin: 10px;
 }
+.site-links{
+    margin: 24px 0;
+}
 .profile-pic{
     border-radius: 50%;
     height: 200px;
